@@ -1,4 +1,0 @@
-[submodule "vendor/media-de-um-aluno-em-php"]
-	path = vendor/media-de-um-aluno-em-php
-	url = https://github.com/pessoa736/media-de-um-aluno-em-php
-	shallow = true
